@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradeCalculatorApp</string>
+    <string name="gpaTotal">gpaTotal</string>
+</resources>
